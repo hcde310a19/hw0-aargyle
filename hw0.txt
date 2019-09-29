@@ -1,3 +1,17 @@
 # Description of your program (part 7)
 
+-Start a running word count at 0.
+-Starting at the beginning of the document, parse through the document.
+-When you encounter a space, you know a word has ended.
+-For each word in the document, increase the word count by 1.
+-Report the final word count once you have reached the end of the document.
+
 # Reflection on writing your program (part 8)
+
+I like activities like this. When I am really struggling with complex programming problems I do this exact thing. Being
+able to write out in English what I need the program to do and breaking it down into components really helps to
+reduce the complexity. It also makes it easier to keep track of what I have and have not done yet.
+
+I am really hoping to gain confidence with using APIs to make powerful web apps. I have mostly done front-end programming
+and being able to use data in the backend will be extremely helpful. I am also a bit rusty on my python so I am hoping
+to gain some confidence in the language.
